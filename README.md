@@ -75,7 +75,7 @@ A very simple practice as a start to the implementation of prisma orm using post
 
 ## Developers: Installation
 
-1. Clone the repository: https://github.com/newmanferrer/project-220423-nextjs-prisma-postgres.git
+1. Clone the repository: https://github.com/newmanferrer/practice-220423-nextjs-prisma-postgres.git
 2. Another option is to download the repository using ZIP format.
 3. Install the dependencies using the command "pnpm install", from the terminal console.
 4. From the terminal console, execute the “pnpm dev” command, to run the development server.
